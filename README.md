@@ -19,7 +19,7 @@ yarn install
 # bun
 bun install
 ```
-
+# github action
 ## Development Server
 
 Start the development server on `http://localhost:3000`:
